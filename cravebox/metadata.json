@@ -1,0 +1,6 @@
+{
+  "name": "CraveBox — Premium Food Delivery & Meal Prep",
+  "description": "Chef-made meals. Delivered fresh. Made for your lifestyle. Freshly prepared food delivery and customized weekly meal-prep plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
